@@ -1,6 +1,6 @@
 # Serpent Strike 
 
-1. Introduction
+Introduction
 This project involves the design and implementation of a 2D interactive game using OpenGL, focusing on gameplay mechanics, graphical representation, and real-time user interaction. The game offers a unique twist on traditional snake games, challenging the player to avoid obstacles and earn upgrades to survive for as long as possible.
 
 Gameplay Elements:
